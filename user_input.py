@@ -1,0 +1,7 @@
+print("what is your name:")
+name = input()       
+print("what is your age:")
+age = input()
+print("what is your location:")
+location = input()
+print("Welcome "+name+","+"you are "+age+" years old and live in "+location+".")
